@@ -3,5 +3,5 @@
 
 | OUTPUT |
 | ------------- |
-| <img src="https://github.com/BoguslawObara/anomaly_detection2d3d/blob/main/im/anomaly_detection2d.png" width="250">|
-| <img src="https://github.com/BoguslawObara/anomaly_detection2d3d/blob/main/im/anomaly_detection3d.png" width="250">|
+| <img src="https://github.com/BoguslawObara/anomaly_detection2d3d/blob/main/im/anomaly_detection2d.png" width="500">|
+| <img src="https://github.com/BoguslawObara/anomaly_detection2d3d/blob/main/im/anomaly_detection3d.png" width="500">|
